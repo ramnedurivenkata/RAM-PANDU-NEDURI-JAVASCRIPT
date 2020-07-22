@@ -1,0 +1,42 @@
+.body{
+    background-image: url("epam office.jpg");
+    background-size: 100%;
+}
+.signinform{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 370px;
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.padding{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.but{
+    width: 480px;
+    height: 40px;
+}
+.block1{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height:40px;
+    width:597px;
+    background-color:skyblue;
+}
+
+.signin{
+    color:white;
+    text-align: center;
+    font-size:20px;
+    position: fixed;
+    margin-top: 6px;
+    margin-left:50px;
+    height:30px;
+    width:420px;
+}
